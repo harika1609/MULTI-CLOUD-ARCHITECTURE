@@ -30,4 +30,9 @@ Conclusion
 From this task, I gained hands-on experience in designing, deploying, and managing a multi-cloud architecture using AWS and Google Cloud. I learned how to set up secure networking, configure compute resources, implement storage solutions, and establish interoperability between two different cloud providers. Additionally, I deepened my understanding of VPN connections, API integrations, IAM security policies, and cloud infrastructure best practices. Throughout this process, I developed valuable problem-solving skills in troubleshooting cloud connectivity, optimizing resource allocation, and ensuring high availability across different platforms. This project strengthened my cloud computing, networking, and system architecture skills, preparing me for real-world multi-cloud deployments and enterprise-level cloud solutions.
 
 ##OUTPUT
+![Image](https://github.com/user-attachments/assets/cb84977e-e404-4174-98be-f6ecd4fab12e)
+
+![Image](https://github.com/user-attachments/assets/d8ca6fac-dbe3-450f-8aa5-58a21f1d613d)
+
+![Image](https://github.com/user-attachments/assets/248cce2d-8419-41f4-8e27-aee2e4a64c4d)
 
